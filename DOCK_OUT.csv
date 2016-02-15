@@ -1,0 +1,364 @@
+Sl.No,Receptor Protein,Ligand,Docking Score,Docking Result,No of Interactions,Interaction Sites
+1,choline,7hydroxycoumarin,-3266,YES,5,"GLN-244,TYR-288,ASP-264"
+2,choline,7isoorientin,-6142,YES,4,
+3,choline,Kaempferol,-4396,YES,5,"SER-150,TYR-147,ARG-104"
+4,choline,isoshaftoside,-6236,YES,1,
+5,choline,Chrysin,-4194,YES,4,"LEU-70,GLY-76,ASP-264"
+6,choline,Isovitexin,-5616,YES,2,
+7,choline,Lucenin,-6450,YES,4,
+8,choline,Lutenin,-4498,YES,3,"TYR-147,ARG-84,ARG-104"
+9,choline,Scopoletin,-3374,YES,3,"SER-79,LEU-78,GLN-244"
+10,choline,umbelliferone,-3690,YES,3,"ASP-264,ASN-247"
+11,choline,Betaine,-2748,YES,1,GLN-244
+12,choline,Choline,-2332,YES,1,GLN-244
+13,choline,Ephedrine,-3442,YES,2,"MET-210,ASN-211"
+14,choline,Hypaphorine,-4232,YES,2,"GLY-76,SER-75"
+15,choline,pseudo-ephedrine,-3428,YES,1,GLY-246
+16,choline,Vasicinol,-3660,YES,1,TYR-267
+17,choline,b-phenethylamine,-3218,YES,2,"TYR-373,TYR-288"
+18,choline,asiatic acid,-5946,YES,1,ARG-84
+19,choline,brahmic acid,-5918,YES,1,
+20,choline,Campesterol,-5666,YES,1,
+21,choline,Amentoflavone,-5920,YES,5,"GLY-76,THH-289,GLN-244, LEU-78"
+22,choline,Epigallocatechin,-4426,YES,3,
+23,choline,Humulene,NA,NO,,
+24,choline,Hypericin,-5774,YES,1,
+25,choline,Hyperoside,-5232,YES,5,
+26,choline,Isoquercetin,-5310,YES,2,
+27,choline,Miquelianin,-5088,YES,2,
+28,choline,Myricetin,-4476,YES,3,
+29,choline,Nicotinamide,-2788,YES,3,"TYR-267,TYR-288,ASP-264"
+30,choline,Pectin Disaccharide,-4240,YES,5,"ARG-104,SER-75,LEU-78,GLN-244,ASP-264"
+31,choline,p-hydroxybenzoic acid,-2930,YES,4,"ASP-264,TYR-267,TYR-288,TYR-373"
+32,choline,vanillic acid,-3172,YES,5,"TYR-288,GLU-283,LEU-78,TYR-267,TYR-373"
+33,choline,b-sitosterrol,-5834,YES,1,
+34,DNMT1,7hydroxycoumarin,-3244,YES,1,
+35,DNMT1,7isoorientin,-5636,YES,3,
+36,DNMT1,Kaempferol,-4196,YES,2,ARG-544
+37,DNMT1,isoshaftoside,-6024,YES,7,
+38,DNMT1,Chrysin,-4118,YES,3,"ASN-462,GLU-463,LYS-649"
+39,DNMT1,Isovitexin,-5174,YES,6,
+40,DNMT1,Lucenin,-5716,YES,12,
+41,DNMT1,Lutenin,-4430,YES,2,"GLY-1558,TYR-923"
+42,DNMT1,Scopoletin,-3302,YES,2,"ARG-544,TYR-933"
+43,DNMT1,Umbelliferone,-3824,YES,3,"HIS-1507,LYS-1535,SER-1524"
+44,DNMT1,Betaine,-2668,YES,2,"ALA-1049,ASP-986"
+45,DNMT1,Choline,-2586,YES,1,ASP-986
+46,DNMT1,Ephedrine,-3650,YES,1,LEU-1264
+47,DNMT1,Hypaphorine,-4384,YES,1,LEU-1264
+48,DNMT1,pseudo-ephedrine,-3482,YES,1,GLU-232
+49,DNMT1,Vasicinol,-3752,YES,2,"ASP-986,LYS-160"
+50,DNMT1,b-phenethylamine,-3290,YES,1,SER-161
+51,DNMT1,asiatic acid,-5672,YES,4,"ARG-600,GLN-1213,GLU-525,GLN-1227"
+52,DNMT1,brahmic acid,-5694,YES,6,
+53,DNMT1,Campesterol,-5802,YES,3,
+54,DNMT1,Amentoflavone,-6128,YES,2,
+55,DNMT1,Epigallocatechin,-4326,YES,5,
+56,DNMT1,Humulene,NA,NO,,
+57,DNMT1,Hypericin,-5008,YES,2,
+58,DNMT1,Hyperoside,-5332,YES,4,
+59,DNMT1,Isoquercetin,-5190,YES,5,
+60,DNMT1,Miquelianin,-5074,YES,3,
+61,DNMT1,Myricetin,-4388,YES,2,
+62,DNMT1,Nicotinamide,-2870,YES,1,ALA-1049
+63,DNMT1,Pectin Disaccharide,-4604,YES,3,"LEU-1264,ARG-264"
+64,DNMT1,p-hydroxybenzoic acid,-2926,YES,2,"ASP-986,ASN-1026"
+65,DNMT1,vanillic acid,-3348,YES,1,SER-161
+66,DNMT1,b-sitosterrol,-5472,YES,3,
+67,E3 ubiquitin-protein,7hydroxycoumarin,-2386,YES,1,GLN-70
+68,E3 ubiquitin-protein,7isoorientin,-4676,YES,5,
+69,E3 ubiquitin-protein,Kaempferol,-3530,YES,3,"ARG-75,GLN-70,TYR-229"
+70,E3 ubiquitin-protein,Isoshaftoside,-5094,YES,5,
+71,E3 ubiquitin-protein,Chrysin,-3384,YES,3,"ASP-191,LEU-170,ARG-182"
+72,E3 ubiquitin-protein,Isovitexin,-4624,YES,8,
+73,E3 ubiquitin-protein,Lucenin,-5460,YES,5,
+74,E3 ubiquitin-protein,Lutenin,-3646,YES,1,TYR-71
+75,E3 ubiquitin-protein,Scopoletin,-2882,YES,5,"ARG-180,VAL-128,LEU-170,CYS-168"
+76,E3 ubiquitin-protein,Umbelliferone,-2888,YES,5,"ARG-164,SER-127,CYS-168,GLY-166"
+77,E3 ubiquitin-protein,Betaine,-1994,YES,1,SER-127
+78,E3 ubiquitin-protein,Choline,-2180,YES,1,TYR-229
+79,E3 ubiquitin-protein,Ephedrine,-2830,YES,1,GLN-70
+80,E3 ubiquitin-protein,Hypaphorine,-3446,YES,1,GLN-70
+81,E3 ubiquitin-protein,pseudo-ephedrine,-2614,YES,3,"THR-106,SER-86,LEU-88"
+82,E3 ubiquitin-protein,Vasicinol,-3214,YES,1,GLY-166
+83,E3 ubiquitin-protein,b-phenethylamine,-2396,YES,1,GLN-216
+84,E3 ubiquitin-protein,asiatic acid,-5258,YES,2,"SER-232,TYR-71"
+85,E3 ubiquitin-protein,brahmic acid,-5098,YES,2,
+86,E3 ubiquitin-protein,Campesterol,-4958,YES,1,
+87,E3 ubiquitin-protein,Amentoflavone,-5896,YES,2,
+88,E3 ubiquitin-protein,Epigallocatechin,-3642,YES,4,
+89,E3 ubiquitin-protein,Humulene,NA,NO,,
+90,E3 ubiquitin-protein,Hypericin,-4528,YES,1,
+91,E3 ubiquitin-protein,Hyperoside,-4756,YES,7,
+92,E3 ubiquitin-protein,Isoquercetin,-4804,YES,4,
+93,E3 ubiquitin-protein,Miquelianin,-4296,YES,3,
+94,E3 ubiquitin-protein,Myricetin,-3654,YES,3,
+95,E3 ubiquitin-protein,Nicotinamide,-2050,YES,2,"SER-127,TYR-242"
+96,E3 ubiquitin-protein,Pectin Disaccharide,-3624,YES,3,"TRP-74,ASP-211,GLN-216"
+97,E3 ubiquitin-protein,p-hydroxybenzoic acid,-2206,YES,3,"SER-127,SER-167"
+98,E3 ubiquitin-protein,vanillic acid,-2554,YES,1,THR-230
+99,E3 ubiquitin-protein,b-sitosterrol,-5128,YES,1,
+100,HLAC2,7hydroxycoumarin,-2450,YES,2,"GLN-228,SER-229"
+101,HLAC2,7isoorientin,-5090,YES,3,
+102,HLAC2,Kaempferol,-3586,YES,2,"GLN-198,SER-229"
+103,HLAC2,isoshaftoside,-5444,YES,4,
+104,HLAC2,Chrysin,-3530,YES,2,"GLN-168,LYS-230"
+105,HLAC2,Isovitexin,-4782,YES,4,
+106,HLAC2,Lucenin,-5660,YES,1,
+107,HLAC2,Lutenin,-3924,YES,1,GLN-198
+108,HLAC2,Scopoletin,-2908,YES,2,"GLN-198,VAL-239"
+109,HLAC2,Umbelliferone,-2928,YES,6,"GLN-198,ASN-166,VAL-239"
+110,HLAC2,Betaine,-1896,YES,1,ARG-254
+111,HLAC2,Choline,-1972,YES,1,GLU-170
+112,HLAC2,Ephedrine,-2892,YES,1,ASN-166
+113,HLAC2,Hypaphorine,NA,NO,,
+114,HLAC2,pseudo-ephedrine,-2782,YES,1,LYS-230
+115,HLAC2,Vasicinol,-2992,YES,3,"LYS-230,GLN-168,GLN-198"
+116,HLAC2,b-phenethylamine,-2304,YES,1,HIS-144
+117,HLAC2,asiatic acid,-5642,YES,2,"LYS-230,VAL-239"
+118,HLAC2,brahmic acid,-5502,YES,1,
+119,HLAC2,Campesterol,-5072,YES,1,
+120,HLAC2,Amentoflavone,-5510,YES,2,
+121,HLAC2,Epigallocatechin,-3642,YES,4,
+122,HLAC2,Humulene,NA,NO,,
+123,HLAC2,Hypericin,-4684,YES,6,
+124,HLAC2,Hyperoside,-4856,YES,9,
+125,HLAC2,Isoquercetin,-4938,YES,2,
+126,HLAC2,Miquelianin,-4666,YES,4,
+127,HLAC2,Myricetin,-3712,YES,5,
+128,HLAC2,Nicotinamide,-2094,YES,1,LYS-160
+129,HLAC2,Pectin Disaccharide,-3614,YES,5,"GLY-237,GLN-198,ARG-165,ASN-166"
+130,HLAC2,p-hydroxybenzoic acid,-2134,YES,4,"THR-196,THR-172,THR-203"
+131,HLAC2,vanillic acid,-2548,YES,2,"ARG-165,GLN-228"
+132,HLAC2,b-sitosterrol,NA,NO,,
+133,Hypocretin,7hydroxycoumarin,-2966,YES,2,
+134,Hypocretin,7isoorientin,-6104,YES,4,
+135,Hypocretin,Kaempferol,-4106,YES,4,
+136,Hypocretin,isoshaftoside,-6386,YES,10,
+137,Hypocretin,Chrysin,-4306,YES,3,
+138,Hypocretin,Isovitexin,-5200,YES,6,
+139,Hypocretin,Lucenin,-6456,YES,9,
+140,Hypocretin,Lutenin,-4134,YES,1,
+141,Hypocretin,Scopoletin,-3320,YES,2,
+142,Hypocretin,Umbelliferone,-3600,YES,6,
+143,Hypocretin,Betaine,-2350,YES,2,
+144,Hypocretin,Choline,-2404,YES,1,
+145,Hypocretin,Ephedrine,-3262,YES,2,
+146,Hypocretin,Hypaphorine,-4072,YES,2,
+147,Hypocretin,pseudo-ephedrine,-3266,YES,2,
+148,Hypocretin,Vasicinol,NA,NO,,
+149,Hypocretin,b-phenethylamine,NA,NO,,
+150,Hypocretin,asiatic acid,-6088,YES,2,
+151,Hypocretin,brahmic acid,-6174,YES,1,
+152,Hypocretin,Campesterol,-5724,YES,1,
+153,Hypocretin,Amentoflavone,-6218,YES,6,
+154,Hypocretin,Epigallocatechin,-4416,YES,2,
+155,Hypocretin,Humulene,NA,NO,,
+156,Hypocretin,Hypericin,-5466,YES,4,
+157,Hypocretin,Hyperoside,-5334,YES,2,
+158,Hypocretin,Isoquercetin,-5670,YES,2,
+159,Hypocretin,Miquelianin,-5258,YES,3,
+160,Hypocretin,Myricetin,-4600,YES,2,
+161,Hypocretin,Nicotinamide,-2522,YES,2,
+162,Hypocretin,Pectin Disaccharide,-4086,YES,2,
+163,Hypocretin,p-hydroxybenzoic acid,-2574,YES,3,
+164,Hypocretin,vanillic acid,-3046,YES,1,
+165,Hypocretin,b-sitosterrol,-6018,YES,1,
+166,Myelin-oligodendrocyte glycoprotein,7hydroxycoumarin,-2518,YES,1,
+167,Myelin-oligodendrocyte glycoprotein,7isoorientin,-4562,YES,4,
+168,Myelin-oligodendrocyte glycoprotein,Kaempferol,-3458,YES,1,
+169,Myelin-oligodendrocyte glycoprotein,Isoshaftoside,-4940,YES,4,
+170,Myelin-oligodendrocyte glycoprotein,Chrysin,-3504,YES,1,
+171,Myelin-oligodendrocyte glycoprotein,Isovitexin,-4678,YES,7,
+172,Myelin-oligodendrocyte glycoprotein,Lucenin,-4848,YES,9,
+173,Myelin-oligodendrocyte glycoprotein,Lutenin,-3686,YES,1,
+174,Myelin-oligodendrocyte glycoprotein,Scopoletin,-2952,YES,1,
+175,Myelin-oligodendrocyte glycoprotein,Umbelliferone,-2964,YES,6,
+176,Myelin-oligodendrocyte glycoprotein,Betaine,-2046,YES,1,
+177,Myelin-oligodendrocyte glycoprotein,Choline,-2182,YES,1,
+178,Myelin-oligodendrocyte glycoprotein,Ephedrine,-2858,YES,1,
+179,Myelin-oligodendrocyte glycoprotein,Hypaphorine,-3402,YES,1,
+180,Myelin-oligodendrocyte glycoprotein,pseudo-ephedrine,-2768,YES,1,
+181,Myelin-oligodendrocyte glycoprotein,Vasicinol,-2848,YES,1,
+182,Myelin-oligodendrocyte glycoprotein,b-phenethylamine,-2420,YES,1,
+183,Myelin-oligodendrocyte glycoprotein,asiatic acid,-4896,YES,2,
+184,Myelin-oligodendrocyte glycoprotein,brahmic acid,-4906,YES,1,
+185,Myelin-oligodendrocyte glycoprotein,Campesterol,-5890,YES,1,
+186,Myelin-oligodendrocyte glycoprotein,Amentoflavone,-5420,YES,2,
+187,Myelin-oligodendrocyte glycoprotein,Epigallocatechin,-3588,YES,1,
+188,Myelin-oligodendrocyte glycoprotein,Humulene,NA,NO,,
+189,Myelin-oligodendrocyte glycoprotein,Hypericin,-4956,YES,3,
+190,Myelin-oligodendrocyte glycoprotein,Hyperoside,-4868,YES,2,
+191,Myelin-oligodendrocyte glycoprotein,Isoquercetin,-4304,YES,3,
+192,Myelin-oligodendrocyte glycoprotein,Miquelianin,-4518,YES,3,
+193,Myelin-oligodendrocyte glycoprotein,Myricetin,-3516,YES,5,
+194,Myelin-oligodendrocyte glycoprotein,Nicotinamide,-2092,YES,3,
+195,Myelin-oligodendrocyte glycoprotein,Pectin Disaccharide,-3404,YES,2,
+196,Myelin-oligodendrocyte glycoprotein,p-hydroxybenzoic acid,-2324,YES,1,
+197,Myelin-oligodendrocyte glycoprotein,vanillic acid,-2508,YES,2,
+198,Myelin-oligodendrocyte glycoprotein,b-sitosterrol,NA,NO,,
+199,cylicin-2,7hydroxycoumarin,-2960,YES,1,ASP-246
+200,cylicin-2,7isoorientin,-5302,YES,4,
+201,cylicin-2,Kaempferol,-4034,YES,1,LYS-272
+202,cylicin-2,Isoshaftoside,-5922,YES,3,
+203,cylicin-2,Chrysin,-3982,YES,2,"ASP-70,ASP-72"
+204,cylicin-2,Isovitexin,-5076,YES,8,
+205,cylicin-2,Lucenin,-5958,YES,7,
+206,cylicin-2,Lutenin,-4462,YES,1,ARG-72
+207,cylicin-2,Scopoletin,-3360,YES,3,"LYS-100,VAL-288,GLU-291"
+208,cylicin-2,Umbelliferone,-3492,YES,3,"ASP-56,ASP-246,GLY-247"
+209,cylicin-2,Betaine,-2388,YES,1,LYS-265
+210,cylicin-2,Choline,NA,NO,,
+211,cylicin-2,Ephedrine,-3198,YES,1,GLY-270
+212,cylicin-2,Hypaphorine,-4008,YES,1,LYS-249
+213,cylicin-2,pseudo-ephedrine,-3432,YES,1,GLU-266
+214,cylicin-2,Vasicinol,-3290,YES,4,"LYS-225,GLY-227,GLY-270,LYS-272"
+215,cylicin-2,b-phenethylamine,-2898,YES,1,TYR-78
+216,cylicin-2,asiatic acid,-5826,YES,1,ASP-70
+217,cylicin-2,brahmic acid,-5704,YES,4,
+218,cylicin-2,Campesterol,-5820,YES,1,
+219,cylicin-2,Amentoflavone,-6002,YES,1,
+220,cylicin-2,Epigallocatechin,-4064,YES,5,
+221,cylicin-2,Humulene,NA,NO,,
+222,cylicin-2,Hypericin,-5096,YES,5,
+223,cylicin-2,Hyperoside,-5274,YES,4,
+224,cylicin-2,Isoquercetin,-5324,YES,4,
+225,cylicin-2,Miquelianin,-5006,YES,5,
+226,cylicin-2,Myricetin,-4248,YES,2,
+227,cylicin-2,Nicotinamide,NA,NO,,
+228,cylicin-2,Pectin Disaccharide,-4216,YES,2,"SER-230,ARG-71"
+229,cylicin-2,p-hydroxybenzoic acid,-2732,YES,1,GLU-270
+230,cylicin-2,vanillic acid,-3094,YES,2,"GLY-247,LYS-249"
+231,cylicin-2,b-sitosterrol,.NA,NO,,
+232,NLC1,7hydroxycoumarin,-2352,YES,2,
+233,NLC1,7isoorientin,-5064,YES,6,
+234,NLC1,Kaempferol,-3760,YES,7,
+235,NLC1,Isoshaftoside,-5602,YES,6,
+236,NLC1,Chrysin,-3924,YES,2,
+237,NLC1,Isovitexin,-4976,YES,4,
+238,NLC1,Lucenin,-6014,YES,2,
+239,NLC1,Lutenin,-3960,YES,2,
+240,NLC1,Scopoletin,-3012,YES,1,
+241,NLC1,Umbelliferone,-3144,YES,1,
+242,NLC1,Betaine,-2220,YES,1,
+243,NLC1,Choline,NA,NO,,
+244,NLC1,Ephedrine,-2962,YES,1,
+245,NLC1,Hypaphorine,-3370,YES,1,
+246,NLC1,pseudo-ephedrine,-2686,YES,1,
+247,NLC1,Vasicinol,-3240,YES,1,
+248,NLC1,b-phenethylamine,NA,NO,,
+249,NLC1,asiatic acid,-5180,YES,2,
+250,NLC1,brahmic acid,-5014,YES,1,
+251,NLC1,Campesterol,NA,NO,,
+252,NLC1,Amentoflavone,-6312,YES,5,
+253,NLC1,Epigallocatechin,-3776,YES,1,
+254,NLC1,Humulene,NA,NO,,
+255,NLC1,Hypericin,-5090,YES,4,
+256,NLC1,Hyperoside,-4844,YES,1,
+257,NLC1,Isoquercetin,-4898,YES,2,
+258,NLC1,Miquelianin,-4618,YES,3,
+259,NLC1,Myricetin,-3778,YES,2,
+260,NLC1,Nicotinamide,-2386,YES,1,
+261,NLC1,Pectin Disaccharide,-3716,YES,1,
+262,NLC1,p-hydroxybenzoic acid,-2498,YES,1,
+263,NLC1,vanillic acid,-2562,YES,2,
+264,NLC1,b-sitosterrol,-5632,YES,1,
+265,olfactory receptor 52B4,7hydroxycoumarin,-3098,YES,1,
+266,olfactory receptor 52B4,7isoorientin,-5774,YES,2,
+267,olfactory receptor 52B4,Kaempferol,-4182,YES,2,
+268,olfactory receptor 52B4,Isoshaftoside,-5600,YES,2,
+269,olfactory receptor 52B4,Chrysin,NA,NO,,
+270,olfactory receptor 52B4,Isovitexin,-5402,YES,1,
+271,olfactory receptor 52B4,Lucenin,-6514,YES,2,
+272,olfactory receptor 52B4,Lutenin,-4498,YES,1,
+273,olfactory receptor 52B4,Scopoletin,-3614,YES,1,
+274,olfactory receptor 52B4,Umbelliferone,-3688,YES,1,
+275,olfactory receptor 52B4,Betaine,NA,NO,,
+276,olfactory receptor 52B4,Choline,NA,NO,,
+277,olfactory receptor 52B4,Ephedrine,-3652,YES,1,
+278,olfactory receptor 52B4,Hypaphorine,NA,NO,,
+279,olfactory receptor 52B4,pseudo-ephedrine,3590,YES,2,
+280,olfactory receptor 52B4,Vasicinol,-3814,YES,1,
+281,olfactory receptor 52B4,b-phenethylamine,-3116,YES,1,
+282,olfactory receptor 52B4,asiatic acid,-6174,YES,1,
+283,olfactory receptor 52B4,brahmic acid,-6084,YES,1,
+284,olfactory receptor 52B4,Campesterol,NA,NO,,
+285,olfactory receptor 52B4,Amentoflavone,-6178,YES,3,
+286,olfactory receptor 52B4,Epigallocatechin,-4508,YES,1,
+287,olfactory receptor 52B4,Humulene,NA,NO,,
+288,olfactory receptor 52B4,Hypericin,-5126,YES,5,
+289,olfactory receptor 52B4,Hyperoside,-5650,YES,1,
+290,olfactory receptor 52B4,Isoquercetin,-5692,YES,2,
+291,olfactory receptor 52B4,Miquelianin,-5474,YES,2,
+292,olfactory receptor 52B4,Myricetin,-4420,YES,2,
+293,olfactory receptor 52B4,Nicotinamide,NA,NO,,
+294,olfactory receptor 52B4,Pectin Disaccharide,-4264,YES,1,
+295,olfactory receptor 52B4,p-hydroxybenzoic acid,-2834,YES,1,
+296,olfactory receptor 52B4,vanillic acid,-3342,YES,2,
+297,olfactory receptor 52B4,b-sitosterrol,NA,NO,,
+298,TRA,7hydroxycoumarin,-2938,YES,4,"ASP-119,LYS-226,VAL-227"
+299,TRA,7isoorientin,-5352,YES,3,
+300,TRA,Kaempferol,-3824,YES,5,"ASP-119,SER-121,VAL-227,THR-208"
+301,TRA,Isoshaftoside,-5710,YES,4,
+302,TRA,Chrysin,-3636,YES,2,"SER-240,PHE-212"
+303,TRA,Isovitexin,-4902,YES,6,
+304,TRA,Lucenin,-5840,YES,6,
+305,TRA,Lutenin,-3966,YES,2,SER-121
+306,TRA,Scopoletin,-3192,YES,2,"SER-137,LYS-138"
+307,TRA,Umbelliferone,-3238,YES,7,"LYS-168,ASP-119,SER-166,ASN-167,PHE-171"
+308,TRA,Betaine,-2368,YES,1,ASN-175
+309,TRA,Choline,-2158,YES,2,SER-121
+310,TRA,Ephedrine,-3372,YES,1,LEU-210
+311,TRA,Hypaphorine,-3580,YES,1,ARG-221
+312,TRA,pseudo-ephedrine,-3156,YES,1,SER-121
+313,TRA,Vasicinol,-3514,YES,3,"PHE-171,SER-121,LYS-226"
+314,TRA,b-phenethylamine,-2764,YES,2,"ASP-119,ASN-167"
+315,TRA,asiatic acid,-5302,YES,1,THR-208
+316,TRA,brahmic acid,-5210,YES,2,
+317,TRA,Campesterol,-5858,YES,2,
+318,TRA,Amentoflavone,-5624,YES,3,
+319,TRA,Epigallocatechin,-4090,YES,5,
+320,TRA,Humulene,NA,NO,,
+321,TRA,Hypericin,-5636,YES,6,
+322,TRA,Hyperoside,-5178,YES,6,
+323,TRA,Isoquercetin,-5016,YES,1,
+324,TRA,Miquelianin,-5010,YES,2,
+325,TRA,Myricetin,-4054,YES,9,
+326,TRA,Nicotinamide,-2320,YES,1,GLU-205
+327,TRA,Pectin Disaccharide,-3726,YES,4,"SER-240,ASN-214,LEU-223"
+328,TRA,p-hydroxybenzoic acid,-2422,YES,3,"LYS-168,LYS-226,VAL-227"
+329,TRA,vanillic acid,-2874,YES,1,SER-121
+330,TRA,b-sitosterrol,NA,NO,,
+331,transcriptional enhancer factor -3,7hydroxycoumarin,-3042,YES,1,
+332,transcriptional enhancer factor -3,7isoorientin,-5902,YES,2,
+333,transcriptional enhancer factor -3,Kaempferol,-4302,YES,1,
+334,transcriptional enhancer factor -3,Isoshaftoside,-5218,YES,1,
+335,transcriptional enhancer factor -3,Chrysin,-4164,YES,2,
+336,transcriptional enhancer factor -3,Isovitexin,-5158,YES,1,
+337,transcriptional enhancer factor -3,Lucenin,-5630,YES,1,
+338,transcriptional enhancer factor -3,Lutenin,-4606,YES,1,
+339,transcriptional enhancer factor -3,Scopoletin,-3550,YES,2,
+340,transcriptional enhancer factor -3,Umbelliferone,-3778,YES,5,
+341,transcriptional enhancer factor -3,Betaine,NA,NO,,
+342,transcriptional enhancer factor -3,Choline,-2496,YES,1,
+343,transcriptional enhancer factor -3,Ephedrine,-3524,YES,1,
+344,transcriptional enhancer factor -3,Hypaphorine,NA,NO,,
+345,transcriptional enhancer factor -3,pseudo-ephedrine,NA,NO,,
+346,transcriptional enhancer factor -3,Vasicinol,-3604,YES,1,
+347,transcriptional enhancer factor -3,b-phenethylamine,NA,NO,,
+348,transcriptional enhancer factor -3,asiatic acid,-5220,YES,3,
+349,transcriptional enhancer factor -3,brahmic acid,-4892,YES,1,
+350,transcriptional enhancer factor -3,Campesterol,-5168,YES,1,
+351,transcriptional enhancer factor -3,Amentoflavone,-5266,YES,2,
+352,transcriptional enhancer factor -3,Epigallocatechin,-4544,YES,1,
+353,transcriptional enhancer factor -3,Humulene,NA,NO,,
+354,transcriptional enhancer factor -3,Hypericin,-4558,YES,1,
+355,transcriptional enhancer factor -3,Hyperoside,-4530,YES,1,
+356,transcriptional enhancer factor -3,Isoquercetin,-4502,YES,6,
+357,transcriptional enhancer factor -3,Miquelianin,-5296,YES,4,
+358,transcriptional enhancer factor -3,Myricetin,-4718,YES,1,
+359,transcriptional enhancer factor -3,Nicotinamide,NA,NO,,
+360,transcriptional enhancer factor -3,Pectin Disaccharide,-4284,YES,4,
+361,transcriptional enhancer factor -3,p-hydroxybenzoic acid,-2788,YES,1,
+362,transcriptional enhancer factor -3,vanillic acid,-3316,YES,1,
+363,transcriptional enhancer factor -3,b-sitosterrol,-5494,YES,1,
