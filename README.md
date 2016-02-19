@@ -1,6 +1,6 @@
 # Pandas 101 - manipulating data using Pandas, An introduction.
 
 ### Reference
-*[Youtube Video] [youtube-url]	
+* [Youtube Video] - PyData 2015 - Introduction to Pandas
 
-[youtube-url]: <https://www.youtube.com/watch?v=TSsSWuhBpmY>
+[Youtube Video]: <https://www.youtube.com/watch?v=TSsSWuhBpmY>
